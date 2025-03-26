@@ -12,7 +12,7 @@
 
            | user  | account number | mobile number | amount | password  | message           |
            | user1 | 453566587654   | 8678456533    | 25000  | Pass@123# | Successfully Send |
-           | user2 | 789987543123   | 9676543232    | 0      | Abc@123#  | Invalid Amount    |
+           | user2 | 789987543156   | 9676543232    | 500      | Abc@123#  | Invalid Amount    |
 
 
        
